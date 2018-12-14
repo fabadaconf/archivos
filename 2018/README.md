@@ -17,7 +17,7 @@ Recursos de las charlas ofrecidas en la edición de 2018 de Fabada Conference.
 | **Ponente** | Rodrigo Álvarez ([Github](https://github.com/papipo)) |
 |---:|:---|
 | **Fecha** | 10/11/2018 |
-| **Slides** | [Link Slides](https://github.com/fabadaconference/archivos/raw/master/files/tdd.pdf) |
+| **Slides** | [Link Slides](https://github.com/fabadaconf/archivos/blob/master/2018/files/tdd.pdf) |
 | **Vídeo** | [Link Youtube](https://www.youtube.com/watch?v=oKVq7rHQ_-o) |
 | **Referencias** | - |
 
