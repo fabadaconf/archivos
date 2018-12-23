@@ -70,7 +70,7 @@ Recursos de las charlas ofrecidas en la edición de 2018 de Fabada Conference.
 | **Fecha** | 10/11/2018 12:50h |
 | **Empresa Patrocinadora** | [Onirix](https://www.neosentec.com/productos/onirix-plataforma-realidad-aumentada/) |
 | **Slides** | [Link Slides](https://github.com/fabadaconf/archivos/blob/master/2018/files/improving_as_developers.pdf) |
-| **Vídeo** | [Link Youtube](#) |
+| **Vídeo** | [Link Youtube](https://www.youtube.com/watch?v=e1QwyaKlpZw) |
 
 ## Presupuesto
 
