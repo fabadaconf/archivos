@@ -51,7 +51,7 @@ Recursos de las charlas ofrecidas en la edición de 2018 de Fabada Conference.
 | **Fecha** | 10/11/2018 10:50h |
 | **Empresa Patrocinadora** | [AMR Informática](http://tienda.amr.es/) |
 | **Slides** | [Link Slides](https://github.com/fabadaconf/archivos/blob/master/2018/files/docker_y_kubernetes.pdf) |
-| **Vídeo** | [Link Youtube](https://youtu.be/bF4ksIksJoM) |
+| **Vídeo** | [Link Youtube](https://www.youtube.com/watch?v=bF4ksIksJoM) |
 | **Referencias** | [Repositorio con el proyecto demo de la charla](https://github.com/odarriba/fabadaconf-demo) |
 
 ### TDD: Toxicity Driven Development
