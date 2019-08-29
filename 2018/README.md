@@ -109,7 +109,7 @@ Y por último, al **gran equipo de colaboradores** que han ofrecido su apoyo y e
 * [Manuel Gómez](https://twitter.com/tasug0).
 * [Mónica Medio](https://twitter.com/copihi).
 * [Noelia Fernández](https://twitter.com/noeliaena).
-* [Pablo Arienza](https://www.facebook.com/parienza).
+* [Pablo Arienza](https://twitter.com/parienzaf).
 * [Rafa Garcés](https://twitter.com/rafagarces).
 * [Victor Fernández](https://twitter.com/vifergo).
 
