@@ -5,6 +5,7 @@ Repositorio con el histórico de todas las ediciones de Fabada Conference. Datos
 ## Tabla De Contenidos
 
   * [Edición de 2018](./2018)
+  * [Edición de 2019](./2019)
 
 ----------------------------
 

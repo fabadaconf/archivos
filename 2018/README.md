@@ -12,7 +12,7 @@ Datos y recursos sobre la edición de 2018 de **Fabada Conference**, celebrada e
     * [TDD: Toxicity Driven Development](#tdd-toxicity-driven-development)
     * [Mejorando Como Desarrolladores](#mejorando-como-desarrolladores)
 - [Presupuesto](#presupuesto)
-- [Agradecimientos](#agradecmientos)
+- [Agradecimientos](#agradecimientos)
 
 ## Principales Patrocinadores
 
