@@ -42,8 +42,8 @@ Recursos de las charlas ofrecidas en la edición de 2019 de Fabada Conference.
 | **Ponente** | Teresa de la Torre ([Twitter](https://twitter.com/tdelatorreh)) |
 |---:|:---|
 | **Fecha** | 09/11/2019 09:30h |
-| **Slides** | [Link Slides](#) |
-| **Vídeo** | [Link Youtube](#) |
+| **Slides** | [Link Slides](https://github.com/fabadaconf/archivos/blob/master/2019/files/el-hombre-piso-la-luna-pero-gracias-a-la-mujer.pdf) |
+| **Vídeo** | [Link Youtube](https://www.youtube.com/watch?v=LhsVQnUQNi4) |
 
 ### Alternativas consideradas
 
@@ -51,15 +51,15 @@ Recursos de las charlas ofrecidas en la edición de 2019 de Fabada Conference.
 |---:|:---|
 | **Fecha** | 09/11/2019 10:20h |
 | **Slides** | [Link Slides](#) |
-| **Vídeo** | [Link Youtube](#) |
+| **Vídeo** | [Link Youtube](https://www.youtube.com/watch?v=b1EEoymJpeU) |
 
 ### Developer Experience
 
 | **Ponente** | Mavi Jiménez ([Github](https://github.com/linkita)) |
 |---:|:---|
 | **Fecha** | 09/11/2019 11:05h |
-| **Slides** | [Link Slides](#) |
-| **Vídeo** | [Link Youtube](#) |
+| **Slides** | [Link Slides](https://github.com/fabadaconf/archivos/blob/master/2019/files/developer-experience.pdf) |
+| **Vídeo** | [Link Youtube](https://www.youtube.com/watch?v=JarX8Vv1bjY) |
 
 ### The Gold Rush. CSS nuggets. Reloaded
 
@@ -67,7 +67,7 @@ Recursos de las charlas ofrecidas en la edición de 2019 de Fabada Conference.
 |---:|:---|
 | **Fecha** | 09/11/2019 12:25h |
 | **Slides** | [Link Slides](https://nabaroa.github.io/the-gold-rush-reloaded/) |
-| **Vídeo** | [Link Youtube](#) |
+| **Vídeo** | [Link Youtube](https://www.youtube.com/watch?v=oWxFFrfAqrc) |
 
 ### Cómo hemos cambiado...
 
